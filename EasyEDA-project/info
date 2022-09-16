@@ -1,0 +1,89 @@
+{
+  "uuid": "e75ac029d913d2256e805f04a1f705fe",
+  "path": "Offline/Teensy%20to%20Click%20adapter",
+  "name": "Teensy to Click adapter",
+  "content": "",
+  "created_at": "2022-09-16 15:28:19",
+  "updated_at": "2022-09-16 16:58:06",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f394b3beebf6e10a281e452081d0aece",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "9fbe723d5ccc4447a16d461927b3c80b": 1,
+        "03b2d53166f44509aaf61d85f56567d7": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "MIKROE-CLICK-HEADER",
+          1,
+          "MIKROE-CLICK-HEADER",
+          "J1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "1c1bcab56a704a1eab5c3df64415e0ce",
+            "uuid": "9fbe723d5ccc4447a16d461927b3c80b"
+          }
+        ],
+        [
+          "TEENSY LC (NO INNER PINS)",
+          1,
+          "TEENSY LC (NA)",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "TEENSY_LC",
+            "BOM_Supplier Part": "Teensy LC",
+            "BOM_Supplier": "PJRC",
+            "puuid": "e67a73afd764463b876f4593a632c5b5",
+            "uuid": "03b2d53166f44509aaf61d85f56567d7"
+          }
+        ]
+      ],
+      "updateTime": 1663310222,
+      "createTime": 1663306099,
+      "histories": [],
+      "created_at": "2022-09-16 15:28:19",
+      "updated_at": "2022-09-16 16:37:02"
+    },
+    {
+      "uuid": "49088ac4f22eda2d3a7bd79eac3ef621",
+      "puuid": "e75ac029d913d2256e805f04a1f705fe",
+      "title": "PCB_Teensy to click adapter",
+      "filename": "PCB_Teensy to click adapter.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1c1bcab56a704a1eab5c3df64415e0ce": 1,
+        "e67a73afd764463b876f4593a632c5b5": 1
+      },
+      "BOM": [],
+      "updateTime": 1663311486,
+      "createTime": 1663306570,
+      "histories": [],
+      "created_at": "2022-09-16 15:36:10",
+      "updated_at": "2022-09-16 16:58:06"
+    }
+  ],
+  "sort": [],
+  "title": "Teensy to Click adapter",
+  "foldername": "Teensy to Click adapter",
+  "schfilename": "Teensy to Click adapter.json",
+  "schfilemtime": 1663310222759
+}
